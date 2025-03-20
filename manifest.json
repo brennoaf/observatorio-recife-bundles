@@ -1,38 +1,26 @@
 {
   "aeroporto": {
     "filename": "aeroporto.rar",
-    "lastModified": "2025-03-20T15:24:00",
-    "size": 1728201,
     "version": 1
   },
   "balanco-comercial": {
     "filename": "balanco-comercial.rar",
-    "lastModified": "2025-03-20T15:24:00",
-    "size": 4856773,
     "version": 1
   },
   "ipca": {
     "filename": "ipca.rar",
-    "lastModified": "2025-03-20T15:24:00",
-    "size": 1265684,
     "version": 1
   },
   "pib": {
     "filename": "pib.rar",
-    "lastModified": "2025-03-20T15:24:00",
-    "size": 822685,
     "version": 1
   },
   "porto": {
     "filename": "porto.rar",
-    "lastModified": "2025-03-20T15:24:00",
-    "size": 15497144,
     "version": 1
   },
   "ranking": {
     "filename": "ranking.rar",
-    "lastModified": "2025-03-20T15:25:00",
-    "size": 2135160,
     "version": 1
   }
 }
