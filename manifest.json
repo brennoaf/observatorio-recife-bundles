@@ -22,5 +22,9 @@
   "ranking": {
     "filename": "ranking.rar",
     "version": 1
+  },
+  "empregos": {
+    "filename": "empregos.rar",
+    "version": 1
   }
 }
